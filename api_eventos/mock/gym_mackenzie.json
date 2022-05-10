@@ -1,0 +1,871 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "CqQCHAEAAIoeuxj09Jf68qeeQo6OEI_ZfjznwOzPtFRK7ZREXKc3g9NA8mtdoTmCIVsuZ4CIDQlRFcs55mpuoEzvGc38gQHqdlVtuBcdBzN27bwTefHwnteeXpXAcjy0E3CEwuSq4Sm7ZhfYkvtDwRaDpNP7FTekBq1INEFkCxItTmuKzCOvf1SrqRsw9QH_XAnPdEVIhqxKMisntjDYEYi8FnZ0TfJvK96XthTxhuMM1s1WWnisSAv4AoPMidBo4SUuOUEXeSYgmGVuTFOfJAqbRMPYyDUIVB05tgzwmrW3FSc0ioVjEISs0zKrTQVov1y2I6CWtweK5wCCvpmPvEQKCFNefbDvMz6Ufd-DHe2TDU_xf8bUIzKODyw-eN_jf5JxUXQ2DBIQCYg0-8F3NWxeCVkV8-QmPhoUKnivxwnuKa0QPfObd9io19OJM9U",
+    "results" : [
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.555751,
+                "lng" : -46.6597022
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5544791197085,
+                   "lng" : -46.65826851970849
+                },
+                "southwest" : {
+                   "lat" : -23.5571770802915,
+                   "lng" : -46.66096648029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+          "id" : "fafcec5d15954b6a3bc4b209c0bce796dbafddd9",
+          "name" : "TRYP São Paulo Paulista Hotel",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1366,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110692376481350834003/photos\"\u003eHotel São Paulo Paulista By Melia\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAeF0QziQXYUSnzAHBxdO3A1Eab83U7pldE7kjQaWFM3PkURZisWit_RZz8u3J-WSBK3soG-JJGF505HcBTP4PavTUk29AUkO-xvVfysYm9aZ7AplVVtaTcbcaXTyWuxw-EhCJtpvbz1NWD7vLXpVxZLRKGhQYlQHzCoFXGemGDE-zeChtiN44gA",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJyUxCxzJYzpQRq4aMfVWbVfg",
+          "plus_code" : {
+             "compound_code" : "C8VR+M4 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC8VR+M4"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJyUxCxzJYzpQRq4aMfVWbVfg",
+          "scope" : "GOOGLE",
+          "types" : [
+             "gym",
+             "lodging",
+             "health",
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "vicinity" : "Rua Haddock Lobo, 294 - Cerqueira César, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5489328,
+                "lng" : -46.64528199999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5475762197085,
+                   "lng" : -46.6440159697085
+                },
+                "southwest" : {
+                   "lat" : -23.5502741802915,
+                   "lng" : -46.6467139302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "e21aae442c127d557511bc86e9873e1b74ef1eaa",
+          "name" : "ACM / YMCA",
+          "place_id" : "ChIJiYbUZ0xYzpQRPWZYj6iffo0",
+          "plus_code" : {
+             "compound_code" : "F923+CV São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MF923+CV"
+          },
+          "reference" : "ChIJiYbUZ0xYzpQRPWZYj6iffo0",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Nestor Pestana, 147 - Consolação, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5668466,
+                "lng" : -46.64730759999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5655882197085,
+                   "lng" : -46.6461209697085
+                },
+                "southwest" : {
+                   "lat" : -23.5682861802915,
+                   "lng" : -46.6488189302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "5de1030ca2da3fda35be54607e44f21eda56519e",
+          "name" : "Competition Academia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 600,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115364791330846007069/photos\"\u003eCompetition Academia\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAHo-Yv4Bf090SAJ8FRVVqyA-MWY0wXEEr0N6w9_kSsRu-EorTAkMyA8udvVN1tstLBXxDI9lDtGUoKILy1n2gLNrEh-kTU9340AGLzTWQ-Ud74m6lMigLvIoNCAEMXmlwEhCt10svdyfjsAgINShSCD3pGhT969hnsRlakLXDi2wKbgcQB2wcKQ",
+                "width" : 1505
+             }
+          ],
+          "place_id" : "ChIJiZmiob5ZzpQRExJa-EYVt3k",
+          "plus_code" : {
+             "compound_code" : "C9M3+73 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC9M3+73"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJiZmiob5ZzpQRExJa-EYVt3k",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Cincinato Braga, 520 - Bela Vista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5465572,
+                "lng" : -46.63571579999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5452678697085,
+                   "lng" : -46.6342396697085
+                },
+                "southwest" : {
+                   "lat" : -23.5479658302915,
+                   "lng" : -46.63693763029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "57030dd5c413035910e44000daef5106086968b6",
+          "name" : "Activa Academia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJcW368lRYzpQRGTCL3VDeIYI",
+          "plus_code" : {
+             "compound_code" : "F937+9P São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MF937+9P"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJcW368lRYzpQRGTCL3VDeIYI",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua São Bento, 279 - São Bento, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5589465,
+                "lng" : -46.6602822
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5573898197085,
+                   "lng" : -46.6587169197085
+                },
+                "southwest" : {
+                   "lat" : -23.5600877802915,
+                   "lng" : -46.6614148802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "ca9fbe6f96502c5a12b7fe3a5487e313fea0ccd6",
+          "name" : "Bio Ritmo",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104173104418849181049/photos\"\u003eFernando B\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAfIsrIHaZVs5nU7mhtRIYZBNST8O0ji7ZmYmAr9ofpejqJPEEHLB15QIIF5qTpC91STv9wwvkX_BPFiJgAbPUQllos_WC6PeEmYJjiqqB4WemidRTPu1asH2cvqd9MIg7EhD3weCPYxFmNABKxu6QAVvrGhSxQtRWsbbCRz2IGI6jad8Cvf_qvw",
+                "width" : 3120
+             }
+          ],
+          "place_id" : "ChIJEx4dbc1ZzpQRyIoy10dX0oI",
+          "plus_code" : {
+             "compound_code" : "C8RQ+CV São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC8RQ+CV"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJEx4dbc1ZzpQRyIoy10dX0oI",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Paulista, 2073 - Bela Vista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.539626,
+                "lng" : -46.65800000000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.53825966970849,
+                   "lng" : -46.6567163697085
+                },
+                "southwest" : {
+                   "lat" : -23.5409576302915,
+                   "lng" : -46.6594143302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "94e16f220ff83b1d5c7421b00dcd35eb92d26c7e",
+          "name" : "The Pilates Studio® Brasil",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 600,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104133978664036138629/photos\"\u003eThe Pilates Studio® Brasil\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAg5N1BbkVVy8ad8bGxcRIkfarpEkW8Ns9pfYIMaB_y4--5V5M3jFZQrCZE99280rJOgh-eBO8n4txpt8jqqerb3CZNI3Dkyww-bER-1KcnlNzr9Gx7fnYeShaDyOYDnQYEhAvYjTr-QZb8Po8tcPxphlqGhSeP9AHB7Z1F4uU2FJGl37djlDldw",
+                "width" : 1200
+             }
+          ],
+          "place_id" : "ChIJVas_As1WzpQR21ED1iWili4",
+          "plus_code" : {
+             "compound_code" : "F86R+4Q São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MF86R+4Q"
+          },
+          "rating" : 4,
+          "reference" : "ChIJVas_As1WzpQR21ED1iWili4",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Albuquerque Lins, 1089 - Santa Cecilia, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.579936,
+                "lng" : -46.643781
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5786389197085,
+                   "lng" : -46.6425842197085
+                },
+                "southwest" : {
+                   "lat" : -23.5813368802915,
+                   "lng" : -46.6452821802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "46a9619151dacf8e8bf6235bdf6c62340cec6a07",
+          "name" : "DOT Pilates and Functional Training",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2048,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105961589902092153804/photos\"\u003eEstúdio DOT - Vila Mariana - Pilates e Treinamento Funcional\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAgPQrW6U3xof8elvuZ-lLF6pzddwJIcrzasr0kSzEiq3ohQlFLTsZ3-dzPq0zSMkUQZVtx3z8kYyv6Nn2q-ru4evY58u4b6hOgnuZGxTr5VE5TA__itVSaMFR-0VEsfHbEhAwNeKrMQ3yQn-z6J5YSrF5GhQ45vJcLjqIyrDWslLhQ5QEHeQ9jg",
+                "width" : 3072
+             }
+          ],
+          "place_id" : "ChIJ-UOoppFZzpQR_LRE16iB_0M",
+          "plus_code" : {
+             "compound_code" : "C9C4+2F São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC9C4+2F"
+          },
+          "rating" : 4.9,
+          "reference" : "ChIJ-UOoppFZzpQR_LRE16iB_0M",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Coronel Oscar Porto, 1245 - C - Vila Mariana, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5571141,
+                "lng" : -46.690522
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5558118697085,
+                   "lng" : -46.6892512197085
+                },
+                "southwest" : {
+                   "lat" : -23.5585098302915,
+                   "lng" : -46.69194918029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "58a7e83f5246039ccd881625061262bd33875930",
+          "name" : "Espaço Girassol Spa & Yoga",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 315,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100665575413809434851/photos\"\u003eEspaço Girassol Spa &amp; Yoga\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAUWbai7K9prkOjpFTBU4XJ8ZKx2NWtILzbEF-RcK_V8w7-ofFmJHi2h1qtyhdLNFI0qeEPMf9qNCIMQBYj-gpHGaBwQm8up_QBU0wKXPkIAWyyQrPJNP6fl5Np1NlJFobEhDDjqifefvvGKbiCHIWgSdaGhSrotXQ1WeKZv1H_JqTRwhgSTImHg",
+                "width" : 560
+             }
+          ],
+          "place_id" : "ChIJAwdK-71XzpQRkV992APuA6Q",
+          "rating" : 4.7,
+          "reference" : "ChIJAwdK-71XzpQRkV992APuA6Q",
+          "scope" : "GOOGLE",
+          "types" : [
+             "spa",
+             "beauty_salon",
+             "gym",
+             "store",
+             "health",
+             "point_of_interest",
+             "establishment"
+          ],
+          "vicinity" : "Rua Fradique Coutinho, 1190 - Pinheiros, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5607844,
+                "lng" : -46.66815889999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5593935197085,
+                   "lng" : -46.6668587697085
+                },
+                "southwest" : {
+                   "lat" : -23.5620914802915,
+                   "lng" : -46.6695567302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "dc7a03aeb4b7050e349120e2134d60d51847e6dc",
+          "name" : "First Academia",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1440,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116486898618491173096/photos\"\u003ejerferson santana\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAApzGJsbJBDHRlmtTDUmWk0wfW2kKhzyiXwMGhdBGJ4TbddX_IKyHbO-J5hCx0026hhd15fuAp-AurImxJlgQ6DpS4xRJtsYW9bDb-Hx8uv_GCNBxABf82C5k79jwwIwjFEhD7yJRAMcvz3Eg8Brvqi46UGhRGbBmOtEFruavpgdmQ3UBiiw1uGg",
+                "width" : 2560
+             }
+          ],
+          "place_id" : "ChIJ79WFqi1YzpQRSgU6iZE4BNk",
+          "plus_code" : {
+             "compound_code" : "C8QJ+MP São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC8QJ+MP"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJ79WFqi1YzpQRSgU6iZE4BNk",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua da Consolação, 3249 - Jardim Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.584,
+                "lng" : -46.648386
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5825951197085,
+                   "lng" : -46.6469516197085
+                },
+                "southwest" : {
+                   "lat" : -23.5852930802915,
+                   "lng" : -46.6496495802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "55a45d11338c2259d866fc64b4d12b9c7ec5758e",
+          "name" : "Aquasport",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3595,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109140477913459990514/photos\"\u003eAquasport\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRZAAAAlDztz9i2acPYJ8GcaW2wnoTZyAWc64hf6vi80vmUQSYCwDxQf6qCXf70385jaPn24_9Mp_BRbBCD-AVARJKWczhxxFT9YKJLdONliD8u5H2z49JeFjoCxRQinf5NfWsxEhA499sVCtCDxc-7vG_ltuCrGhSoy_u-EYY1rZNt5R_duo-VTX3iHg",
+                "width" : 5392
+             }
+          ],
+          "place_id" : "ChIJZ7xirY1ZzpQRfFZBzslCCU4",
+          "plus_code" : {
+             "compound_code" : "C982+9J São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC982+9J"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJZ7xirY1ZzpQRfFZBzslCCU4",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "school", "establishment" ],
+          "vicinity" : "Rua Doutor Amâncio de Carvalho, 308 - Vila Mariana, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5637118,
+                "lng" : -46.68899469999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5623254697085,
+                   "lng" : -46.6875821197085
+                },
+                "southwest" : {
+                   "lat" : -23.5650234302915,
+                   "lng" : -46.69028008029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "29b667e155428afd11ec0e7d6c306d0d3acd7084",
+          "name" : "Academia Pinheiros",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2848,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102965537261282893077/photos\"\u003eAcademia Pinheiros\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAeQLR2TCbqX-sPNANvyeb81O-7EpEU3-FyCWJJQAwb6UuAK9WaOnqLHFsmEdNGzG1uqU0IY5jXd26bHSiFtS3LakQDTckoTqgkk0tq1OgL9Bjc_YUFX7n9Ds2_P0GgZhmEhB9hFcSVn7kQCe4U1YJP19HGhT6WxGYuwE000uEb0_zkDRAx6KxmA",
+                "width" : 4288
+             }
+          ],
+          "place_id" : "ChIJmSoAQp9XzpQRZ9e92NwOLaY",
+          "plus_code" : {
+             "compound_code" : "C8P6+GC São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC8P6+GC"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJmSoAQp9XzpQRZ9e92NwOLaY",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Simão Álvares, 465 - Pinheiros, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.571375,
+                "lng" : -46.65595400000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5700018697085,
+                   "lng" : -46.65463371970851
+                },
+                "southwest" : {
+                   "lat" : -23.5726998302915,
+                   "lng" : -46.65733168029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "3b0678f241840b94b65304daf67b2b1e9512608a",
+          "name" : "Studio Core Fitness: Pilates e Ginástica (Jardins)",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 960,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103810166628879831210/photos\"\u003eStudio Core Fitness: Pilates e Ginástica (Jardins)\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAi7iQ4MgS0uiOU3KULQ9kra5JCJHuZxpLY5ljeLu0tYwpAGCKKrcotoeWDvnmmW0HdIOy5rbtikFI_-JlpnmFJDh2cvwEk-GqlhnPnVBVzcFeBhdeJR_g4ZOTSilervXdEhAa2oyEktf8rv9tm_TVwxlGGhRgzh7sQP4pSh9CPnh1awbfVutkIw",
+                "width" : 1280
+             }
+          ],
+          "place_id" : "ChIJp3hT38NZzpQR4yjOxrJhbTg",
+          "plus_code" : {
+             "compound_code" : "C8HV+CJ São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC8HV+CJ"
+          },
+          "rating" : 3.7,
+          "reference" : "ChIJp3hT38NZzpQR4yjOxrJhbTg",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Alameda Joaquim Eugênio de Lima, 1281 - Jardim Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5671694,
+                "lng" : -46.6575636
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5657776697085,
+                   "lng" : -46.65616771970851
+                },
+                "southwest" : {
+                   "lat" : -23.5684756302915,
+                   "lng" : -46.6588656802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "fb735c5ef7fb67d1310091029b07d769212d872a",
+          "name" : "Bola N Água Academia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4320,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102644621820847277767/photos\"\u003eFelipe Casseb de Jesus\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAl964BvoMl3M99odJHiM04gUbBbIQ37Pify8XXv9LL7XjZu4BBPDq29MQUi0qyzXvnsdoBlHd_0jop6X8H-fNfySKxf5AE76KW-KEVlxcAcpS8a5DNIab12NXTf4Iw4idEhDTNNK6NKJQ_YlzlvQm4PYLGhSCl0MjTUvvfPCu0RFgkkyRqirsdA",
+                "width" : 2432
+             }
+          ],
+          "place_id" : "ChIJpU8Ev8VZzpQREIJZdBHpVY0",
+          "plus_code" : {
+             "compound_code" : "C8MR+4X São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC8MR+4X"
+          },
+          "rating" : 4.6,
+          "reference" : "ChIJpU8Ev8VZzpQREIJZdBHpVY0",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "school", "establishment" ],
+          "vicinity" : "Alameda Franca, 235 - Cerqueira César, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.571034,
+                "lng" : -46.64756689999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.56963301970849,
+                   "lng" : -46.6462864197085
+                },
+                "southwest" : {
+                   "lat" : -23.5723309802915,
+                   "lng" : -46.64898438029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "b81ddb7a29fddbdd79b5e4a7e553040af06fc0df",
+          "name" : "Let's Pilates Studio",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 412,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115976036293563555984/photos\"\u003eStudio Let&#39;s Pilates\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAADdkJ6orUkQuzTjsVVvKmrXZIzmLMp4l6wXOxszxNAG05fmaxIVWKw3x-Ek15ysoPrPuRaAM2pxkUMxZYfi77i61qLEtpPqAyiNpeeXScxhDSVUiDqkZAZHOBwr5WUhAqEhBxg43Ate_3eFkwPJZiGq62GhTVmVn-oDmLJZKxWuki7OG8ZCmMQA",
+                "width" : 549
+             }
+          ],
+          "place_id" : "ChIJ54JoE75ZzpQRi_5NqFcqHy4",
+          "plus_code" : {
+             "compound_code" : "C9H2+HX São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC9H2+HX"
+          },
+          "rating" : 3.7,
+          "reference" : "ChIJ54JoE75ZzpQRi_5NqFcqHy4",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Teixeira da Silva, 329 - Paraíso, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5726153,
+                "lng" : -46.63614179999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5712650197085,
+                   "lng" : -46.6348240697085
+                },
+                "southwest" : {
+                   "lat" : -23.5739629802915,
+                   "lng" : -46.6375220302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "5e2f4862565051077d9efc6a49e7f1f0599528e0",
+          "name" : "Fame Gym & Dance",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1280,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105105835830511388421/photos\"\u003eVanderson Andrade\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAf4iPOaXEkMIBQdvQj75NwO2TdZOODxtGLU7JrnoYXgpZLr5P_eOoUZOqo6mdjtWgvN21xJkZ36p3qeIcEUjf4rOMscRWe6NutglV0R1Z74rU1mVREIU1_BvK2KJ3JSJ6EhAGJL6WKEqd8OasIPVvQHYLGhS8RHka-4vZNfRj_cydWjT1Wka2fw",
+                "width" : 960
+             }
+          ],
+          "place_id" : "ChIJfxDpHJxZzpQRmbOGYdwBAJc",
+          "plus_code" : {
+             "compound_code" : "C9G7+XG São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC9G7+XG"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJfxDpHJxZzpQRmbOGYdwBAJc",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Rodrigo Cláudio, 357 - Liberdade, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5465118,
+                "lng" : -46.64924389999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5451677697085,
+                   "lng" : -46.6477675197085
+                },
+                "southwest" : {
+                   "lat" : -23.5478657302915,
+                   "lng" : -46.65046548029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "0268d8c8601342f7308fcdf3f17b434d8af776eb",
+          "name" : "Marquesport Academia Ginástica",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1218,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118338248642761428211/photos\"\u003eMarquesport Academia Ginástica\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAiGdjoFFR0v7jZiAzJanRb58tiB5OVRUxz2NSibxieA1V1OakaLPhZWuVAsj8eVzDydDoOjzYu5hq9Cnpa-Rsdj5Rran8WYA_P9IPhfIShEwAFbOxnLH1qRS4-gNOnU75EhDHu0FticDtHkolAtsUeaaEGhQH2h7kXXAs13zL2gLVr8f5sjxZPw",
+                "width" : 1632
+             }
+          ],
+          "place_id" : "ChIJOTuKqElYzpQRVBVZmMxeXNg",
+          "plus_code" : {
+             "compound_code" : "F932+98 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MF932+98"
+          },
+          "rating" : 3.7,
+          "reference" : "ChIJOTuKqElYzpQRVBVZmMxeXNg",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Doutor Cesário Mota Júnior, 524 - Vila Buarque, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5473558,
+                "lng" : -46.6558265
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5460464197085,
+                   "lng" : -46.6544977197085
+                },
+                "southwest" : {
+                   "lat" : -23.5487443802915,
+                   "lng" : -46.6571956802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "fb3213a14097145a3692e5af78fd34f6dc51fdee",
+          "name" : "B-Active Higienópolis",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 433,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114018224108992088675/photos\"\u003eB-Active Higienópolis\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAevDWQCtICeqxF1TgrkAv8nE8b1-GF4TzbBtv6nH2OqVQu3uBeV_PKXK1TUlOVKAlLBcJOKht77V9PeLJHmkRtedhC7ozlgnD7nPk5AtL46R4mypHD8mFoaL1WPg-y6QAEhCyoV2omyPvo569HverHQKqGhQa3HMoBhIQUD-73WnCaVl-vJwR9A",
+                "width" : 650
+             }
+          ],
+          "place_id" : "ChIJ70szNDdYzpQRLI58vj2rBDc",
+          "rating" : 4.5,
+          "reference" : "ChIJ70szNDdYzpQRLI58vj2rBDc",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Alagoas, 148 - Higienópolis, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5597306,
+                "lng" : -46.64866869999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5583808197085,
+                   "lng" : -46.6473241697085
+                },
+                "southwest" : {
+                   "lat" : -23.5610787802915,
+                   "lng" : -46.6500221302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "2b3d9e034d6fee8d7014d54d90770a55977420ee",
+          "name" : "Core Pedro Costa",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1512,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100155363809443881945/photos\"\u003eRogerio Leite\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAm7chVrSU2dMFsnGGtTwTDMIC6GGcC5V9eX__IrdiXlFixHFvHnWrhAHol2ypG2wvKublTfhHj2nfxUK341TnvIj81TrrlfRu3bbSX7vv1ib4CwW1HAe6l7GpspzAjjg2EhDaWOsXDwNZd-iHxpacFf6GGhSNteDa0r4dENKC7fPHTjXIqHJIMw",
+                "width" : 2016
+             }
+          ],
+          "place_id" : "ChIJ8cevALdZzpQR0igfbfBR3_I",
+          "plus_code" : {
+             "compound_code" : "C9R2+4G São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC9R2+4G"
+          },
+          "rating" : 3.8,
+          "reference" : "ChIJ8cevALdZzpQR0igfbfBR3_I",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "school", "establishment" ],
+          "vicinity" : "Rua Almirante Marques de Leão, 353 - Bela Vista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5532699,
+                "lng" : -46.6624372
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5519209197085,
+                   "lng" : -46.6610882197085
+                },
+                "southwest" : {
+                   "lat" : -23.55461888029151,
+                   "lng" : -46.6637861802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "25ec25d83107cb4e328eb34006d251450d059a52",
+          "name" : "Cris Yumi Pilates e Fisioterapia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1152,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100147956612044169072/photos\"\u003eCris Yumi Pilates e Fisioterapia\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAsTSt8AgXNsSYfu6Hb1D8jhlas8efJOSiIwoiu4gEVfz6BWSEXWRUX_Re00yZqIYZSDsb9JwP1pv5nX0HmktoIy1gEghskv7TVMOuKt8lmN30MhrYfYlTn1mkpL-3vmQuEhDs2-7st7UiexvxSbihPt5dGhS2NnuIFBcZNUcSUZ-lfBGZ22rFRA",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJ7S-33S1YzpQR1V_Govt4-zE",
+          "plus_code" : {
+             "compound_code" : "C8WQ+M2 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC8WQ+M2"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ7S-33S1YzpQR1V_Govt4-zE",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Angélica, 2466 - Cj. 51-53 - Higienópolis, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5533127,
+                "lng" : -46.69107719999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5518665197085,
+                   "lng" : -46.68961601970849
+                },
+                "southwest" : {
+                   "lat" : -23.5545644802915,
+                   "lng" : -46.69231398029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "0b6cd9e6a2d234efd580d9bd2cbdf4c1603c146c",
+          "name" : "Aquasport Academy Swimming and Fitness",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111103762182297522265/photos\"\u003eJuliano Guerra\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAATWJIk-nsMwU9Xg1py5ilKQW9WjdWHRcMXOWh9B9agXd68tZpINxnK_OuMvlsvJ4Ud9MJ_9T9n3dIGBX44VV7abNb43Qgzw156-LI-NZx7pV7pSci0MFg7wMehrSUp9JiEhDLMsY1SdOsObpUMjyBC0_4GhQivXaaiqIwT0GDXEq3ThynJpRqTw",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJdfmJC75XzpQR-iVX7tGf_8E",
+          "plus_code" : {
+             "compound_code" : "C8W5+MH São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC8W5+MH"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJdfmJC75XzpQR-iVX7tGf_8E",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Girassol, 675 - Vila Madalena, São Paulo"
+       }
+    ],
+    "status" : "OK"
+ }

@@ -1,0 +1,22 @@
+AIzaSyBfLoxiRvhgwA0eXW5v_zIAHu_5cnoIL5k
+
+
+https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=academia&inputtype=textquery&fields=photos,formatted_address,name,opening_hours,geometry&locationbias=circle:2000@-23.5469574,-46.652408&key=AIzaSyBfLoxiRvhgwA0eXW5v_zIAHu_5cnoIL5k
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-23.5040437,-46.4128865&radius=3000&type=gym&key=AIzaSyBfLoxiRvhgwA0eXW5v_zIAHu_5cnoIL5k
+
+
+https://maps.googleapis.com/maps/api/geocode/json?address=Rua dos Igarapés, 1029&key=AIzaSyBfLoxiRvhgwA0eXW5v_zIAHu_5cnoIL5k
+
+
+geo loc mackenzie:
+-23.5469574,-46.652408
+
+geo loc vila Formosa
+-23.5680812,-46.5522709
+
+geo loc vila olimpia
+-23.597336,-46.6865975
+
+geo loc igarapes
+-23.5040437,-46.4128865

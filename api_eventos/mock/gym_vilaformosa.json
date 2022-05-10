@@ -1,0 +1,810 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "CqQCHAEAAEoOyYJ0vzMaLAm4E2qcZl5rAg8mAIaFkUmk96xaMWgGeWU9tAFDrP-0DocsEQKcGnXjiPqbDIQEFxSSybyuNRyBUnIaVT6mCcuHG45ll0IvP6JlU_s0isbAohKkKy3q7gC3VaOc9iny5zbnXsEtkAWfX8Dlo8_kRE8nizQH0nQwOp8_jVS_XpIVhvDXg502PIqKhsbKMEEMVEX6-I2WYn8fVtcdyG-BGhPrmvcVriinP70zxDm6eh2d7h5SH7RlgcBnukOglEjy5N1RGWX3p1mzZbqdBHWQbaK_DTacT1xvme4-tOLXfynG_ecvF7NX_FIWD1JpTq5PVH9UVXudFU-FZ3uiAYiySQ3-MZe-AF50iF1Lgv70hKr52nS0_hYOsxIQrs_0VV1NOLYQjIFV454zPxoUy-2Sh-yyn5Rr2whcdSfQqMD7JAc",
+    "results" : [
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5523432,
+                "lng" : -46.5712908
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5509183197085,
+                   "lng" : -46.5699626197085
+                },
+                "southwest" : {
+                   "lat" : -23.5536162802915,
+                   "lng" : -46.5726605802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "32c5cf15a01ec772ba032ff53c234b4d885f6091",
+          "name" : "Uni Yoga",
+          "place_id" : "ChIJ5bOV-5ZezpQRgNefwlP7wk0",
+          "plus_code" : {
+             "compound_code" : "CCXH+3F São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCCXH+3F"
+          },
+          "reference" : "ChIJ5bOV-5ZezpQRgNefwlP7wk0",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Demétrio Ribeiro, 824 - Vila Regente Feijo, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5853203,
+                "lng" : -46.5736537
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5839619697085,
+                   "lng" : -46.5722850697085
+                },
+                "southwest" : {
+                   "lat" : -23.5866599302915,
+                   "lng" : -46.5749830302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "539e14c64487b259a4d487f44fbce26ac7cb0aa2",
+          "name" : "Crossfit Dadiva",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 774,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100596632655240659600/photos\"\u003edadvastudio\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAlwmW7suUpotr8wPJlu1_ROSd7xewOIiHbI6V5T5vF5wDFHHZqNwf5-T9JXPH4jDiGElLye6WdtS3nNovYBZIdD145QMnvVIzigWqLG3kJUn6_9cvKc_I43tQNe5I6IsFEhBbD-ApoDWh2-4oZM4dxBYxGhQueMhFEXH2aqDumoKR2-S53Tw7Gg",
+                "width" : 1032
+             }
+          ],
+          "place_id" : "ChIJ7-Y9EG1czpQR_FxGgw8uP0E",
+          "plus_code" : {
+             "compound_code" : "CC7G+VG São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCC7G+VG"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJ7-Y9EG1czpQR_FxGgw8uP0E",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "doctor", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Pinheiro Guimarães, 230 - Parque da Vila Prudente, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5627258,
+                "lng" : -46.54290530000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5614039197085,
+                   "lng" : -46.5415831697085
+                },
+                "southwest" : {
+                   "lat" : -23.5641018802915,
+                   "lng" : -46.5442811302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "c6438e6842cafcc76fba08c9125462e1c879806f",
+          "name" : "Scott Gym Academia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 426,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107715508345097605606/photos\"\u003eScott Gym Academia\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA0HzuchxKzX7L0fiBxnY6qjdrCAwG9Rjx_gX9KJ_ZpZesp03aoJSuipePBB_IrSTK3qcJOgnFNmmCBXpOJWuaOtQYXWKqlLdu_M6eXrFEYzOoZKdmUChQ1Xr00v9lbrZ0EhAHLNX_GFt6Z0gggQoDqJa-GhQ6vBYFxcQ1uXAtl2GhoZLp8_JhHg",
+                "width" : 640
+             }
+          ],
+          "place_id" : "ChIJN2X_4NpdzpQRcIo3_qQ86sI",
+          "plus_code" : {
+             "compound_code" : "CFP4+WR São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCFP4+WR"
+          },
+          "rating" : 2.8,
+          "reference" : "ChIJN2X_4NpdzpQRcIo3_qQ86sI",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Guilherme Giorgi, 1893 - Vila Formosa, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5539592,
+                "lng" : -46.5689585
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5525617197085,
+                   "lng" : -46.5675966197085
+                },
+                "southwest" : {
+                   "lat" : -23.5552596802915,
+                   "lng" : -46.5702945802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "30a418e3f5d3d45eaafb16f8dec02e689a6952c1",
+          "name" : "My Gym Analia Franco",
+          "place_id" : "ChIJ3bQTqZBezpQRISMXOWRrJFo",
+          "plus_code" : {
+             "compound_code" : "CCWJ+CC São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCCWJ+CC"
+          },
+          "rating" : 4,
+          "reference" : "ChIJ3bQTqZBezpQRISMXOWRrJFo",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Armindo Guaraná, 6 - Vila Formosa, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5574558,
+                "lng" : -46.56672419999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.55611101970849,
+                   "lng" : -46.56533211970849
+                },
+                "southwest" : {
+                   "lat" : -23.5588089802915,
+                   "lng" : -46.56803008029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "2726b17e3e254f3f1a3b49f5898b6364884b4510",
+          "name" : "Modella Center",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJPy2Pd5tezpQRd7cUxm_-YXI",
+          "plus_code" : {
+             "compound_code" : "CCVM+28 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCCVM+28"
+          },
+          "rating" : 4,
+          "reference" : "ChIJPy2Pd5tezpQRd7cUxm_-YXI",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Francisco Zicardi, 298 - Água Rasa, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5497899,
+                "lng" : -46.55015150000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5484509197085,
+                   "lng" : -46.5487576697085
+                },
+                "southwest" : {
+                   "lat" : -23.5511488802915,
+                   "lng" : -46.55145563029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "c70d8212d073ffb40c18ae64a566e075e0bfe4e4",
+          "name" : "Association of Judo and Jiu-jitsu Fernandes",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102544926069498225099/photos\"\u003eEzio Crevellaro\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAS9EV7qO6lslmvsPkT8RXTF3XhrpWuCW0pFAyluGULhoRnnBgksd4EZzB4IWSCccfNLVTLCoU26x2YID0Okd2claFRQX256i2qdoD8qzVQT9kzKNlab-kRBoiIQ9WNmkrEhALhFGbnlf_kXNTG4B2ScSiGhT8NGnurSba6GSBmkOo-6AlF0ypIQ",
+                "width" : 3840
+             }
+          ],
+          "place_id" : "ChIJh6MreXxezpQRocmBlL3XlvA",
+          "plus_code" : {
+             "compound_code" : "FC2X+3W São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MFC2X+3W"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJh6MreXxezpQRocmBlL3XlvA",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Nova Jerusalém, 860 - Vila Carrao, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.576396,
+                "lng" : -46.544394
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5750405697085,
+                   "lng" : -46.5430748697085
+                },
+                "southwest" : {
+                   "lat" : -23.5777385302915,
+                   "lng" : -46.5457728302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "0107612fd2cecf8b1f0db7c2224d644bba01cdb5",
+          "name" : "Estabelecimento Verificado",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJhwP9MrhdzpQRR_oDy6iOHZw",
+          "plus_code" : {
+             "compound_code" : "CFF4+C6 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCFF4+C6"
+          },
+          "reference" : "ChIJhwP9MrhdzpQRR_oDy6iOHZw",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Ferraz de Campos, 84 - Vila Formosa, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.572222,
+                "lng" : -46.564483
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5708646697085,
+                   "lng" : -46.56318641970849
+                },
+                "southwest" : {
+                   "lat" : -23.5735626302915,
+                   "lng" : -46.56588438029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "9117acebfe56736feaebff857f6ad71754ca165f",
+          "name" : "Produtos Herbalife - Zona Leste - São Paulo",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 335,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118300374394307566430/photos\"\u003eProdutos Herbalife - Zona Leste - São Paulo\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAACv61T-8yxhIeO9TAO2s1aifOwwdwPWC_HoYhF8dB590LinXAJLsnSfLIywNXeSlxZuZQkkM86I7j9_egWaC_rGNZxV1gZxG786pxTBClH_baVJdRiHnCCVzrYzyXFgqJEhCz-7M2WrjhWP8KJ3S-1AGMGhRf43i6z8LrxyxT5clqctEP661fug",
+                "width" : 512
+             }
+          ],
+          "place_id" : "ChIJAxbVZrxZzpQRp2dsys0OH78",
+          "plus_code" : {
+             "compound_code" : "CCHP+46 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCCHP+46"
+          },
+          "reference" : "ChIJAxbVZrxZzpQRp2dsys0OH78",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Doutor Carvalho Parreiras, 12 - Vila Diva, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5722905,
+                "lng" : -46.5587007
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5709311697085,
+                   "lng" : -46.55737846970851
+                },
+                "southwest" : {
+                   "lat" : -23.5736291302915,
+                   "lng" : -46.5600764302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "a3434529f4be9ecd86b04cf4d2d2ca98c12b0812",
+          "name" : "Skilper Academia",
+          "place_id" : "ChIJAwo6yTNczpQRiEanVg8nXS4",
+          "plus_code" : {
+             "compound_code" : "CCHR+3G São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCCHR+3G"
+          },
+          "rating" : 4.6,
+          "reference" : "ChIJAwo6yTNczpQRiEanVg8nXS4",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Nossa Senhora dos Anjos, 138 - Vila Diva, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5580703,
+                "lng" : -46.5668862
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5567444197085,
+                   "lng" : -46.5654496697085
+                },
+                "southwest" : {
+                   "lat" : -23.5594423802915,
+                   "lng" : -46.5681476302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "c8211ba1db2c1246cced8a0079179e7ada1fedec",
+          "name" : "Emporium Terapêutico",
+          "photos" : [
+             {
+                "height" : 733,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112257388968504419487/photos\"\u003eEmporium Terapêutico\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAry8nX27WbRMCvlFok5vS0JtmVn9-RvsEwResYEGnNaMorUxHrLKsdrrI36Ec_GnVolthDhffv2PUBRhCKwHmrfzDYN786d3WbUf-HHx25IaBYclWFmQRaQAqnkEOioPFEhCkIrzFP2n9saYgrWbHCgB0GhSxzTxgP69pTz5c79HE5-TO3zJ1Dw",
+                "width" : 673
+             }
+          ],
+          "place_id" : "ChIJSwbVgZxezpQRxdtN_GvRVWU",
+          "plus_code" : {
+             "compound_code" : "CCRM+Q6 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCCRM+Q6"
+          },
+          "reference" : "ChIJSwbVgZxezpQRxdtN_GvRVWU",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Francisco Zicardi, 364 - Vila Formosa, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5489918,
+                "lng" : -46.5418105
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5476659197085,
+                   "lng" : -46.5404737697085
+                },
+                "southwest" : {
+                   "lat" : -23.5503638802915,
+                   "lng" : -46.5431717302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "88238d42c834ac561fdc0c84d6f35c84fa0b9068",
+          "name" : "Advance Academia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115168864965487853993/photos\"\u003eAtacamo X\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA4dmrwqpXwRb0cwMFhNUwBxuZgCu64QvD5AHJBsTg4vxDG5dAkTLMuvNTSUYwMKhsOMSdJxEKKw9xFdnEbDNRYAQO5iGQPROhIcEcz12Ldpi3O80Y9RV1kWJiv8lVIlpfEhCl3a7tkqgUyENHlI-qPULJGhQGSosM9monughp17WPMXsEDoUnWA",
+                "width" : 6000
+             }
+          ],
+          "place_id" : "ChIJrRvXNnFezpQRmMX0bl4BFc4",
+          "plus_code" : {
+             "compound_code" : "FF25+C7 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MFF25+C7"
+          },
+          "rating" : 5,
+          "reference" : "ChIJrRvXNnFezpQRmMX0bl4BFc4",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "school", "establishment" ],
+          "vicinity" : "Rua Rogerio Giorgi, 429 - Vila Carrao, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5900077,
+                "lng" : -46.55245470000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5886530697085,
+                   "lng" : -46.5511011697085
+                },
+                "southwest" : {
+                   "lat" : -23.5913510302915,
+                   "lng" : -46.5537991302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "95bbdfde36c634487a7cf87a007a249a0a304e23",
+          "name" : "Espaço Yoga Filosofia e Saúde",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2592,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102259754167932116623/photos\"\u003eEspaço Yoga Filosofia e Saúde\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAFDa0t9phliZWYnbKiChW_o2IV1gtIGpLUmrBg-TVo9-CSuAaeMQtBvHhQVWRWXsV5cjkeBZ6B9bOwWEccivXBtXy_R14dobT2_ejvybepx8pY4OA7XYIjJVa-u_cWqhVEhDFd09aB0boCJSN-oNPpt7-GhQVYRL-2LvrKJMkbW1vm84cq85QPA",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJ43e4iqxdzpQRIbWY4V3Otcs",
+          "plus_code" : {
+             "compound_code" : "CC5X+X2 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCC5X+X2"
+          },
+          "rating" : 4,
+          "reference" : "ChIJ43e4iqxdzpQRIbWY4V3Otcs",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida do Oratório, 1686 - Sala 4 - São Lucas, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.56997759999999,
+                "lng" : -46.55582039999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.56862861970849,
+                   "lng" : -46.5544714197085
+                },
+                "southwest" : {
+                   "lat" : -23.5713265802915,
+                   "lng" : -46.55716938029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "a25898ab629fd8aee89122ae198f418127d074a9",
+          "name" : "Partner Academia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1836,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105928897606918067726/photos\"\u003ePsicologa Sara Sanches\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAApNcd3eRaTqZJ94_06hg9s1smatREK-78Cj04fXwv0O_lHYnnzQNHrAyVYsrE9uYlG23amN5-tv6UCOcJXYNNJl001xDXuaXjyqfazOqkDVDfBIm-VDzZ_j6i5pVa_QEvEhC0E0BUJm39qnSeuKCyT9vsGhQMrJnU4UqS_zDJXy-Bfb7v_bWXug",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJF_R0vDRczpQRxT4vcm0-k6Y",
+          "plus_code" : {
+             "compound_code" : "CCJV+2M São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCCJV+2M"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJF_R0vDRczpQRxT4vcm0-k6Y",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua José da Rocha Vita, 48 - Chácara Mafalda, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.57194239999999,
+                "lng" : -46.549245
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5705643697085,
+                   "lng" : -46.5478648197085
+                },
+                "southwest" : {
+                   "lat" : -23.5732623302915,
+                   "lng" : -46.5505627802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "8b25829f880f8646d11596389c80929efdc1bddb",
+          "name" : "Bioenergia Academia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJ7xBTW8ldzpQRGT6-X9oDZhU",
+          "plus_code" : {
+             "compound_code" : "CFH2+68 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCFH2+68"
+          },
+          "rating" : 4,
+          "reference" : "ChIJ7xBTW8ldzpQRGT6-X9oDZhU",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Vereador Abel Ferreira, 3680 - Vila Formosa, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.563302,
+                "lng" : -46.5533927
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5619530197085,
+                   "lng" : -46.5520437197085
+                },
+                "southwest" : {
+                   "lat" : -23.56465098029151,
+                   "lng" : -46.5547416802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "5dfd1c60ad9d2da3e5e2c8316a02f8d44f57993f",
+          "name" : "Legion Sports",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 768,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101614889306286120900/photos\"\u003eLegion Sports\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAfnlo6JBJlNewldJHU6EdT3Xy0qv_AptXMhAYtwKVP5scKS_0B9t-L-91y84CP8JQRAYEnHEPgR8lSEYZBxzxOQHt5Ju8H0O3Vn4Zvpcpi1ecvOIBZSuTAB5UrI2D5s5AEhA_PR6KB_sH9cGTBZ-y51ZDGhRiO06sos4nq_ijLDB7UP90ZspqYA",
+                "width" : 1024
+             }
+          ],
+          "place_id" : "ChIJNe3WZdNdzpQRCgq_MM_lpVE",
+          "plus_code" : {
+             "compound_code" : "CCPW+MJ São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCCPW+MJ"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJNe3WZdNdzpQRCgq_MM_lpVE",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Av. Dr. Eduardo Cotching, 745 - Brazil - Vila Formosa, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5632629,
+                "lng" : -46.54990900000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5618250697085,
+                   "lng" : -46.54845711970851
+                },
+                "southwest" : {
+                   "lat" : -23.5645230302915,
+                   "lng" : -46.55115508029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "e763f494a5dc66e34f52534a0eb12ff24269e84c",
+          "name" : "Corpus Fitness Academy",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1728,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114276477764729801301/photos\"\u003eAcademia Corpus Fitness\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAEkmJ2-_z0TehfeeVVxHWvk9EC_6oe9SsknzveY1oKQ-3hPAI1QSafflDxYzo6rjpZF1wW3ZxUyJknEdHQoz9tWoy5niUBH5nNk_-EneeA_GPUGmjykiNVXt5P0NY8ROzEhBbeJlIp2xamMsTy7BvCJ5QGhTiBygkXku5kRZOg6KC2BhR-34Pbg",
+                "width" : 2592
+             }
+          ],
+          "place_id" : "ChIJJalRZNFdzpQRh7yruVMm4mY",
+          "plus_code" : {
+             "compound_code" : "CFP2+M2 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCFP2+M2"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJJalRZNFdzpQRh7yruVMm4mY",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Doutor Eduardo Cotching, 1218 - Vila Formosa, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.56425,
+                "lng" : -46.547678
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5629148197085,
+                   "lng" : -46.54638806970849
+                },
+                "southwest" : {
+                   "lat" : -23.5656127802915,
+                   "lng" : -46.54908603029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "fa76f420a2a84d3136c0c95afbc0202265efe9e7",
+          "name" : "Studio Cross 6 – Vila Formosa",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103576736913764905753/photos\"\u003eMark Gonzalez\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA0cs5owTrJXcHEoZGcZZMej67PwHYmtmj-XWzyEXeU1HpBX2-mlq6_wfUako3v6al_Di1E1sMrgGv0qcx65FIqhdfgW-5oOvHFgltWlhLdCguqsYm_aUwYvSSwUvaQORcEhD9p8rvfnUTB_pkXsRfYbJlGhRHAvrSmlBx2HzH6IFMXA8WYxg5sw",
+                "width" : 5376
+             }
+          ],
+          "place_id" : "ChIJGRd9s9FdzpQRCvd0M9gTuYw",
+          "plus_code" : {
+             "compound_code" : "CFP2+7W São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCFP2+7W"
+          },
+          "rating" : 4.6,
+          "reference" : "ChIJGRd9s9FdzpQRCvd0M9gTuYw",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Praça Nossa Senhora das Vitórias, 187 - Vila Formosa, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.565647,
+                "lng" : -46.54645299999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5642852697085,
+                   "lng" : -46.54509626970849
+                },
+                "southwest" : {
+                   "lat" : -23.5669832302915,
+                   "lng" : -46.54779423029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "ccbd14e02db8ba03faf6612932195fc8fe1418d4",
+          "name" : "Academy Metropolis Club",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 720,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101263289657858324376/photos\"\u003eAcademia Metrópole Club\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA1J8b5PaeF3bw3E_RmeBVMFm_WXfSeN8H7Mbv-yP2J6IvOQBZa30c-5J8sWiPm-ZuzjnMnvJXkWRoWV7L2xpKyculwLyjhOCe2E6ss2pnYNYOx9SXcX1XA9tlPNIhbiwREhAoYmI6DHSVO_Gaek1F5-rWGhQ4ocFpuNiffv3SxE6Za3gdVGjnQA",
+                "width" : 720
+             }
+          ],
+          "place_id" : "ChIJEW7b3c9dzpQRtBuoj6RJUew",
+          "plus_code" : {
+             "compound_code" : "CFM3+PC São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCFM3+PC"
+          },
+          "rating" : 4.6,
+          "reference" : "ChIJEW7b3c9dzpQRtBuoj6RJUew",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Tirana, 38 - Vila Formosa, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5755842,
+                "lng" : -46.5528659
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5741694197085,
+                   "lng" : -46.5514921697085
+                },
+                "southwest" : {
+                   "lat" : -23.5768673802915,
+                   "lng" : -46.5541901302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "3752e9280ffdf52117cc2b041d6d38b6bb64b395",
+          "name" : "Academia HARDCORE FIT",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 467,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113868560025489229699/photos\"\u003eAcademia Ja1000\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAYcO0WT4wYlTwtm57PPIJKx45xdiYkAfhId8rYH9hSF-EYAv06cGTcdyxhROgkk_xiDfvUxqVK1bF8KCEV3zW1ZRSkkahBTNbLdIXvbQd4WJmXyI_7c8FUbZwBswvz5c6EhCcnMELfUd4A9OucRRtzZsDGhTPWAvwtgzCjM8es7tygqMi60c3Cw",
+                "width" : 1080
+             }
+          ],
+          "place_id" : "ChIJI-An8spdzpQRtRwLOZOnY24",
+          "plus_code" : {
+             "compound_code" : "CCFW+QV São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCCFW+QV"
+          },
+          "rating" : 1,
+          "reference" : "ChIJI-An8spdzpQRtRwLOZOnY24",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Sapopemba, 3796 - Vila Ivone, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5634505,
+                "lng" : -46.5444276
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5620505197085,
+                   "lng" : -46.5431050197085
+                },
+                "southwest" : {
+                   "lat" : -23.5647484802915,
+                   "lng" : -46.5458029802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "9844975b1d11ae5ec047378636fe5b52a9017ad5",
+          "name" : "Barros Pilates",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 960,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111686126010186391209/photos\"\u003eBarros Pilates\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAvvRrpNG6FvlvkQVdMSozlHRH143oL1qYhI0P2BvztJ-hfiZdA8eRdWpWMdBPQdA-t1FwYpXRphLiJ6gei4LYnysVF6jP66JfufRkQik0zBJuVK26TTjKLrKPChte1jODEhB5v2t6MT3CS-h2MZVN9eEKGhR91-Wb9gWev-Zf2ciFgBUkGVZJ4Q",
+                "width" : 720
+             }
+          ],
+          "place_id" : "ChIJ24TWl9pdzpQRY961a40jK2c",
+          "plus_code" : {
+             "compound_code" : "CFP4+J6 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MCFP4+J6"
+          },
+          "reference" : "ChIJ24TWl9pdzpQRY961a40jK2c",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Pretória, 1248 - Vila Formosa, São Paulo"
+       }
+    ],
+    "status" : "OK"
+ }

@@ -1,0 +1,852 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "CqQCHAEAAPvLXJOi-CTN_29sxDCDxh9gBx9cU8svebQucD5tRbkXLky0o21bRJlF801tZY9Z-2tHUOMs43OPFTTuBVuE4udOvQ2aDn2ZLikbdnSCpDo5skE5jWyxrtarlHqMAMrFXDzqCsHGz5iclgllVenVV4YqkIVMYzDxZXyCxyox-FZQB9EeGt1CJ2bx3RVdb6X1qJYPQiI10POwY7VA6i-8JLUKjn-NxPyLBXGlhgTdgtd3ewUFK2q7drR8guKI8kNwOyanCxonjGoFBPAYiHf9kJJs-PC3dqEfvZ_odWffwMvU2xnmLf33JxITWmoU4vAy8e2mVEfz8jeUhY-gSYLsU2iJSqMwlWe9V13t3egEvDMoilyHpUUXnIo1IYlAxVZIjBIQJIZgn8BEGPqfy2BUK1xj8BoUCNWKI60QbUWyghZLiPT2tNqguXU",
+    "results" : [
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5885788,
+                "lng" : -46.6713429
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5872281697085,
+                   "lng" : -46.66989471970849
+                },
+                "southwest" : {
+                   "lat" : -23.5899261302915,
+                   "lng" : -46.67259268029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "74a5585353460710e78a1653fe9a202233df9214",
+          "name" : "Yoga Flow",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2592,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111982219284643111575/photos\"\u003eYogaFlow\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAyEQTWO8I-66CVtRYTx0OXgvSIBGsw1Ywyp5Tzbm-481XyZYqgqwXOr2IzBObURwYkFlQrtLkJJp4i91bFddYX9-uvObQncMH3BJjAmvXREoTTpS2yiWg-3iaECDPo1G_EhBtUSCF1zZ40xl_8uky_qo4GhQdm5KjMFj5Yq_At-8bCkMGz2g5KA",
+                "width" : 3888
+             }
+          ],
+          "place_id" : "ChIJPbgSElhXzpQRqQRozYyxmMQ",
+          "plus_code" : {
+             "compound_code" : "C86H+HF São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC86H+HF"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJPbgSElhXzpQRqQRozYyxmMQ",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Dina, 100 - Vila Nova Conceição, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.605339,
+                "lng" : -46.672801
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.60408626970849,
+                   "lng" : -46.6715450197085
+                },
+                "southwest" : {
+                   "lat" : -23.6067842302915,
+                   "lng" : -46.6742429802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "bd3fda849057d4a5408a0283d1eed6bc112a40d4",
+          "name" : "Zahra Spa & Estética",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 312,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110592436623243255254/photos\"\u003eZAHRA SPA &amp; ESTÉTICA\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA4RfNd3JkaM2F93Ur6eK18erRSa5JtnTudG-H4mdfLMLAKej21WU36dc-0zGq0hUEEtjWZz6BIJl-f_Yyx2QbGjrLtmL-4XRzFG_a2F7TvJIA4baCkiLEz7gQ2J27dfm5EhCn_nf25tRAtIzCDAPCnvzNGhRbvNIVmOYAiaMseOxcLiqbVZ8uWw",
+                "width" : 830
+             }
+          ],
+          "place_id" : "ChIJ_1cEoKlQzpQRbN4GLFVnEM8",
+          "plus_code" : {
+             "compound_code" : "98VG+VV São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588M98VG+VV"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJ_1cEoKlQzpQRbN4GLFVnEM8",
+          "scope" : "GOOGLE",
+          "types" : [
+             "spa",
+             "beauty_salon",
+             "hair_care",
+             "gym",
+             "health",
+             "point_of_interest",
+             "establishment"
+          ],
+          "vicinity" : "Avenida Cotovia, 261 - Moema, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5840129,
+                "lng" : -46.6767101
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5826983697085,
+                   "lng" : -46.6754916197085
+                },
+                "southwest" : {
+                   "lat" : -23.5853963302915,
+                   "lng" : -46.6781895802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "b733d2bfc941c9b57cc4dc7db69e9a3ca6cc36e3",
+          "name" : "Valéria Fisioterapia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1536,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116134554223687325542/photos\"\u003eValéria Fisioterapia\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAKKi513_1eryNJhCmngb9vBZEbyqePJ0YwCKs1GERHn4TnIVwBwtIz2yk_bdfNGGLXrU_c1vaur9rkR615WtQIsU2eOBh_9mNxVEpm6vTx_qMHv5GPowmEh2PVFZ4EEPjEhC8N8kekZzbtj1pMjFs5Gs4GhQ-QpAwj5AJ14vJB0SlMWGGUbYvbQ",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJe6A-tF1XzpQRwidvjceqRk8",
+          "plus_code" : {
+             "compound_code" : "C88F+98 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC88F+98"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJe6A-tF1XzpQRwidvjceqRk8",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Urussuí, 71 - Itaim Bibi, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.604462,
+                "lng" : -46.692186
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.6031638197085,
+                   "lng" : -46.6908555697085
+                },
+                "southwest" : {
+                   "lat" : -23.6058617802915,
+                   "lng" : -46.6935535302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "3207b33f7074b2b381ab66fb4a6f3a7d3b9d83c1",
+          "name" : "Núcleo de Yoga Shivalaya",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3840,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110399903448427817368/photos\"\u003eNúcleo de Yoga Shivalaya\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAH9sogizejssAuLAsY3xdlhEBZuy2ZsOypB2cMqJWUl8QzCvFZoZ4hY9VqYibh14sKJMwo2yf-N7QrW58ez1PORjYB6Zfm3FxLmfcIcIoi730sgLIsODdP_symD_T8cElEhDD-vBlyqp5Y-fuI78b-djNGhQngO1cA7jMn3V0xYELkN0m-bk19A",
+                "width" : 5760
+             }
+          ],
+          "place_id" : "ChIJw6_HAjVXzpQRUP2mngzUcSk",
+          "plus_code" : {
+             "compound_code" : "98W5+64 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588M98W5+64"
+          },
+          "rating" : 5,
+          "reference" : "ChIJw6_HAjVXzpQRUP2mngzUcSk",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Eliseu de Oliveira, 46 - Itaim Bibi, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5957145,
+                "lng" : -46.68401679999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5943097697085,
+                   "lng" : -46.68252751970849
+                },
+                "southwest" : {
+                   "lat" : -23.5970077302915,
+                   "lng" : -46.68522548029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "6c735b711b0091ba952de132588809767ef3f0d0",
+          "name" : "Reebok Sports Club",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112722842019842857000/photos\"\u003eRicardo Zanca\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA8MAkoYmQZLQs01XrbUOHhrrlPNi8QSEz1kS9TGXSE5cS80kwkuTE-4tIt58AOg8pRjxtexdbzhpp9zzQoLOxh4nDYHvUSOJBCYlnzp9FSOQLBdPpy6mwD15dwm1JXyhgEhBKWEp-v4i-yeYhISRrsDveGhSkABhpwghGT-CZrT6WSq2nIKy3gg",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJNQolxkhXzpQRJmIwME9D1H0",
+          "plus_code" : {
+             "compound_code" : "C838+P9 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC838+P9"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJNQolxkhXzpQRJmIwME9D1H0",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Olimpíadas, 205 - Vila Olimpia, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5949135,
+                "lng" : -46.6792759
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5935262197085,
+                   "lng" : -46.67778551970851
+                },
+                "southwest" : {
+                   "lat" : -23.5962241802915,
+                   "lng" : -46.6804834802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "f0d2c1ef7964e954f71a82f8b6986f53c7472279",
+          "name" : "Bodytech - Vila Olímpia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 853,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109049719947134173162/photos\"\u003eBodytech\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA0WmXm2shhX1qDOF2bXyvexctm8yaP1DtyV9yXzUHV1j20XXpCt9UNMpc4sietbkwq9fw_VBrEKpThrT586ooajZTkTH82iCG-MTTTSYhiAIH7ieTSMJqZF0GuiWTVUY1EhBSOWcQ0CtfefsdVROATbAGGhQR_4rxlUt9eYNrut3rB5TXf6mKvA",
+                "width" : 1280
+             }
+          ],
+          "place_id" : "ChIJAwgquVFXzpQRrEsOqMo64iE",
+          "plus_code" : {
+             "compound_code" : "C84C+27 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC84C+27"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJAwgquVFXzpQRrEsOqMo64iE",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "spa", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Professor Atílio Innocenti, 870 - Vila Nova Conceição, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.6036189,
+                "lng" : -46.6938573
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.60218621970849,
+                   "lng" : -46.6924795697085
+                },
+                "southwest" : {
+                   "lat" : -23.6048841802915,
+                   "lng" : -46.6951775302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "7bf2cca130538e58640ab994af88df69858f327a",
+          "name" : "ICON Fitness do Brasil",
+          "place_id" : "ChIJCdB2bTRXzpQRfE8h4u1APNM",
+          "plus_code" : {
+             "compound_code" : "98W4+HF São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588M98W4+HF"
+          },
+          "reference" : "ChIJCdB2bTRXzpQRfE8h4u1APNM",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "store", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Alcídes Lourenço da Rocha, 167 - 11º andar, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5938946,
+                "lng" : -46.6903526
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5926889697085,
+                   "lng" : -46.6887867697085
+                },
+                "southwest" : {
+                   "lat" : -23.5953869302915,
+                   "lng" : -46.6914847302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "29bff5e1625aa962065ce30324666e84a4f12bbd",
+          "name" : "Monday Academia Etower",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114176956490000328804/photos\"\u003eJose Manzoli\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAdkFkTvz3u6vfLiUUI-z1nLwRgKD8T0OFsEOUo45bPFUmyryPSVAGV9U-8d3avC1IgZlmzYJc_2_F5xajCZ0VZNOiF6yaSjHemZXdupcCqrqrQC6LSedVcFKN54soPaV7EhDIMpsSQdNBvkm9w5E7DIJyGhSx8GKOx5Y9_ybmJDv-Kj0_WqlE2w",
+                "width" : 2340
+             }
+          ],
+          "place_id" : "ChIJRcIvfzhXzpQR7G1DkH4DYjU",
+          "plus_code" : {
+             "compound_code" : "C845+CV São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC845+CV"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJRcIvfzhXzpQR7G1DkH4DYjU",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Funchal, 418 - Vila Olimpia, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.6050622,
+                "lng" : -46.693153
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.6037467197085,
+                   "lng" : -46.69170021970849
+                },
+                "southwest" : {
+                   "lat" : -23.6064446802915,
+                   "lng" : -46.69439818029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "d23efbe87fd3fe3a89f14c83829e106787756011",
+          "name" : "Qualis Soluções em Qualidade de Vida",
+          "place_id" : "ChIJWaiX6TRXzpQRcOzWkWzUJsA",
+          "plus_code" : {
+             "compound_code" : "98V4+XP São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588M98V4+XP"
+          },
+          "reference" : "ChIJWaiX6TRXzpQRcOzWkWzUJsA",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Engenheiro Luís Carlos Berrini, 962 - Cidade Monções, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.6077364,
+                "lng" : -46.6901441
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.6063185697085,
+                   "lng" : -46.6887287197085
+                },
+                "southwest" : {
+                   "lat" : -23.60901653029151,
+                   "lng" : -46.6914266802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "c136330a90c4946601b39031cafb17d922fca725",
+          "name" : "Espaço Bem Estar - Tai Chi Chuan Yang e Yoga",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116484847776057795033/photos\"\u003eEspaço Bem Estar - Tai Chi Chuan Yang e Yoga\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAATK2H8-SLDzN6JiYGp7t6F-C_gVu3N8p4YX37pBexjnp9eLajqAcgBr85XkqO9rHFRlKiJ4TeJ48f32h73qihZboRt2InmPez_FHJ6dRKNrYnv6SqOCwXkyD_D24imVnaEhBibKYysc-THmxzHyvQkmlqGhSHq_h976S5VRY3W_LNOxmmWQ7cqA",
+                "width" : 1544
+             }
+          ],
+          "place_id" : "ChIJ8W_Fg8pQzpQRmccqNrJOQUs",
+          "plus_code" : {
+             "compound_code" : "98R5+WW São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588M98R5+WW"
+          },
+          "rating" : 4,
+          "reference" : "ChIJ8W_Fg8pQzpQRmccqNrJOQUs",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Padre Antônio José dos Santos, 1371 - Cidade Monções, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.6174043,
+                "lng" : -46.6884834
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.6160801697085,
+                   "lng" : -46.6870970697085
+                },
+                "southwest" : {
+                   "lat" : -23.61877813029151,
+                   "lng" : -46.68979503029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "6a9b0b5c10ffff0b2971fbb01679d0f96fd23abd",
+          "name" : "Fit Stadium",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 299,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107416050495555725596/photos\"\u003eFit Stadium\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAZUTchnbkIUoRyUCFqMFR6THI7PrnJqM2nxVDVYTmVILyf9QK4gQ4hQYu9x5KyDn7KhoewmD0sV5p1s7BXA0v6fsA6ms4ou4RYmYSboVqqaD9wiAxF49FKjAYJkUPPsvoEhAtJ6tvPs_KnoTKX0LVplPAGhRo7ZB3til0UsWJq64hl4AsfwhDTw",
+                "width" : 448
+             }
+          ],
+          "place_id" : "ChIJ5QBx8rhQzpQRvnk-nzbATh4",
+          "plus_code" : {
+             "compound_code" : "98M6+2J São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588M98M6+2J"
+          },
+          "rating" : 4.1,
+          "reference" : "ChIJ5QBx8rhQzpQRvnk-nzbATh4",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Brito Peixoto, 451 - Vila Cordeiro, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.602371,
+                "lng" : -46.68240599999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.60105666970849,
+                   "lng" : -46.6810144697085
+                },
+                "southwest" : {
+                   "lat" : -23.6037546302915,
+                   "lng" : -46.6837124302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "929819de77173090963b134af6ded7fc4f6b5fa4",
+          "name" : "Showa Academia - Brooklyn",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1365,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103044391672904358621/photos\"\u003eShowa Academia - Brooklin\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAADpfFB1vJfQAyTgMTidPMWgQ3XSDZrRdqWVvBP2vRzmBp9cV86bs1mdg9bIlPkWaNo_uBe6F53W4vZwk5l6ySWKkq4dEYNrokEZVv4UXAS7_2meCIEyglqwA_ddYf8GpdEhDH_212vMUD6zeNNkj5iKkWGhTold4nI9mXBjWY-QYe2Zw1ykBw3Q",
+                "width" : 2048
+             }
+          ],
+          "place_id" : "ChIJ5Z6tKE1XzpQRGKkY0MCLuXY",
+          "rating" : 4.9,
+          "reference" : "ChIJ5Z6tKE1XzpQRGKkY0MCLuXY",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Inês Pereira, 42 - Brooklin Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5842359,
+                "lng" : -46.6808968
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.58300901970849,
+                   "lng" : -46.67950811970849
+                },
+                "southwest" : {
+                   "lat" : -23.5857069802915,
+                   "lng" : -46.68220608029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+          "id" : "00fc2a6b37033e81c259863a4c2dd7f1471dde3d",
+          "name" : "Quality Nutrition",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2410,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113835259270710759463/photos\"\u003eScott Joyce Pittman\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAi36bwXU1ZW-fn6ZK8mta3qpCMHJsTu3L_U768b9yUsi1FLM3Qkn7qdPlwOgpsEKzsOERup28qBR0lBxeCq1JCpntW7r4D-3OLEVS6b6J9bvzD3YNcgYvQkYsnzeVV5wQEhD41TCeEIM_-L2LPsqPSjqCGhR_hZdD8CvWjpYTyUiwP6zY0FJSXg",
+                "width" : 3280
+             }
+          ],
+          "place_id" : "ChIJVRUkyEJXzpQRhrb0BzaPg6o",
+          "rating" : 4.2,
+          "reference" : "ChIJVRUkyEJXzpQRhrb0BzaPg6o",
+          "scope" : "GOOGLE",
+          "types" : [
+             "gym",
+             "store",
+             "health",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "vicinity" : "Rua Tabapuã, 1056 - Itaim Bibi, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.6026142,
+                "lng" : -46.6926636
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.60116581970849,
+                   "lng" : -46.6912799697085
+                },
+                "southwest" : {
+                   "lat" : -23.6038637802915,
+                   "lng" : -46.6939779302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "3cf3495fafabc96708a49c673100ccbf114f5724",
+          "name" : "StudioFit",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJeaPEMzRXzpQREstFki6lYI0",
+          "plus_code" : {
+             "compound_code" : "98W4+XW São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588M98W4+XW"
+          },
+          "rating" : 3,
+          "reference" : "ChIJeaPEMzRXzpQREstFki6lYI0",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "school", "establishment" ],
+          "vicinity" : "Rua Quintana, 887 - Cidade Monções, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5920248,
+                "lng" : -46.6652555
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5906383697085,
+                   "lng" : -46.6638877197085
+                },
+                "southwest" : {
+                   "lat" : -23.5933363302915,
+                   "lng" : -46.6665856802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "56439ba66fdcf6178514c334891a82aebcdbe4a1",
+          "name" : "VO2 Personal",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 648,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110800955234757546512/photos\"\u003eVO2 Clínica de Fisioterapia, Reabilitação e Treinamento Personalizado\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA7CwHLmy-1VxlMBwHLMpOszun_W6y7lGY8EGKmZgobfFut9uAFUUoOk1yT0TIm7Hxo2dr5QGawI-T93oakTkV_DGgdkT3QZ1xxVDWysWU2-VTJ27QQJcdv-R-iLbpkaIpEhAnOq4i4EBtjnqMXgGlPPT0GhSHo1wufw-vVquBo9-g5eIZwj2vAA",
+                "width" : 972
+             }
+          ],
+          "place_id" : "ChIJtwJ_-_tZzpQRuzG5ua_ZJp4",
+          "plus_code" : {
+             "compound_code" : "C85M+5V São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC85M+5V"
+          },
+          "rating" : 5,
+          "reference" : "ChIJtwJ_-_tZzpQRuzG5ua_ZJp4",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua João Lourenço, 49 - Moema, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.6161598,
+                "lng" : -46.6703548
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.6148108197085,
+                   "lng" : -46.6690058197085
+                },
+                "southwest" : {
+                   "lat" : -23.6175087802915,
+                   "lng" : -46.6717037802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "db8c42b410a4ae97bb4376a31dab4c58b2a4358a",
+          "name" : "Postura e Saúde",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 359,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118125194703187212785/photos\"\u003ePostura e Saúde\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAACEyi0N3n7UpuwfjhFO6ltegdY9CbPDKJUE63bIMhH24vZ33bjOsCkrTJ6ciYIRXYQjbEaPqJcoYNfmH6Bg0ftmd4bOSoCZVKnK1wZaxYjLFw1O0761r0cq7PbhsFeTdcEhA30cKnLAmuWQ8mekUW45ltGhSGgWlJb9wsqjmB2Jcuhy4OgLPMhA",
+                "width" : 480
+             }
+          ],
+          "place_id" : "ChIJjaaQnQpazpQRsYnnEY0dgQ4",
+          "plus_code" : {
+             "compound_code" : "98MH+GV São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588M98MH+GV"
+          },
+          "rating" : 5,
+          "reference" : "ChIJjaaQnQpazpQRsYnnEY0dgQ4",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "R. Otávio Tarquínio de Sousa, 500 - Campo Belo, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5990498,
+                "lng" : -46.6977657
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5977008197085,
+                   "lng" : -46.6964167197085
+                },
+                "southwest" : {
+                   "lat" : -23.6003987802915,
+                   "lng" : -46.69911468029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "029476e301b98e32776b52fff0a5ffd9792c9978",
+          "name" : "Reebok Sports Club",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2592,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106077711876817034734/photos\"\u003eDoRight Physical Trainers\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA6pf7xkds5OHHin7mVPH8hFDRYNpJH7T5680uPYIHJfwMfptg8iecsNgyB4k8FgzE1ioMBWhte8knIuhRt7ocoXQ-fzboASd8g50zVQ4H0GHLM-J1EK5WqinhfbO8uk3pEhBHZp0JPXc0IYcxUoRTz6akGhSHvyDW_zqshEWjfr20CErsYPdAmA",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJAaHBXzBXzpQREJ8FH1vAIEw",
+          "plus_code" : {
+             "compound_code" : "C822+9V São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC822+9V"
+          },
+          "rating" : 4.6,
+          "reference" : "ChIJAaHBXzBXzpQREJ8FH1vAIEw",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Magalhães de Castro, 12000 - Cidade Jardim, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.6186018,
+                "lng" : -46.67350570000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.6173076197085,
+                   "lng" : -46.6720874697085
+                },
+                "southwest" : {
+                   "lat" : -23.6200055802915,
+                   "lng" : -46.6747854302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "437d7cb47205b306fe3722c69d49a6559c30d97b",
+          "name" : "Bio Ritmo",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 418,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104636587946893519726/photos\"\u003eBio Ritmo\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA0bcONQpDj_MnakbiER1T3X4KrGl5DNLMZSEaSACeR2NbS08CRAHzGvwe7Yj7jnjPchA1fIOkM196zKVzg9u3jJwOALQ652PnxMg_cFW0MszpIoxhjspFvu6b0nmlIuL6EhCsljLZPcJv2PFaI9CnchOdGhTSS00EXIqX306fIQ_trN4Ua3wgRg",
+                "width" : 742
+             }
+          ],
+          "place_id" : "ChIJX1Me1KFQzpQRAOtZCGHdHOk",
+          "plus_code" : {
+             "compound_code" : "98JG+HH São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588M98JG+HH"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJX1Me1KFQzpQRAOtZCGHdHOk",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Barão Jaceguai, 1409 - Campo Belo, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5782289,
+                "lng" : -46.6742687
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5767689697085,
+                   "lng" : -46.6729986197085
+                },
+                "southwest" : {
+                   "lat" : -23.5794669302915,
+                   "lng" : -46.6756965802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "6832f841604d777e0d13029ebed0f9908a04b7d8",
+          "name" : "CREPAM - Consultório de Agressão á Mulher",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 720,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104288639676797712995/photos\"\u003eCREPAM - Consultório de Agressão á Mulher\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA7_dpzSySgCK9jjUJYvvNmwQwx_O50WVmH8t3ciAdVsOlxRdms-sBA1OHgqoy-wQkat8Y43Qgrt819iN7gEYOWTXgQ-fZqnVFAhS56164pg5f8t8TJXZ1jlFmxiBo9lEuEhAS8nVuFogrkh94DCx8asmUGhQc8ZtbfmT7TTHFPwgYtqz7LG4xZQ",
+                "width" : 480
+             }
+          ],
+          "place_id" : "ChIJWw23-8lZzpQRXwjLKQR_zwU",
+          "plus_code" : {
+             "compound_code" : "C8CG+P7 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MC8CG+P7"
+          },
+          "rating" : 3.1,
+          "reference" : "ChIJWw23-8lZzpQRXwjLKQR_zwU",
+          "scope" : "GOOGLE",
+          "types" : [
+             "physiotherapist",
+             "gym",
+             "health",
+             "point_of_interest",
+             "establishment"
+          ],
+          "vicinity" : "Condomínio Edifício Wall Street - Avenida Nove de Julho, 5109 - Jardim Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.6078413,
+                "lng" : -46.6895661
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.6065251197085,
+                   "lng" : -46.6882479197085
+                },
+                "southwest" : {
+                   "lat" : -23.6092230802915,
+                   "lng" : -46.6909458802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "5dfebd52afd856aab16d9e4bda2a89ae5eec13bd",
+          "name" : "Contours Brooklin",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJYwIwgrVQzpQRwxV776Hnrvk",
+          "plus_code" : {
+             "compound_code" : "98R6+V5 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588M98R6+V5"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJYwIwgrVQzpQRwxV776Hnrvk",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Padre Antônio José dos Santos, 1306 - Brooklin Novo, São Paulo"
+       }
+    ],
+    "status" : "OK"
+ }

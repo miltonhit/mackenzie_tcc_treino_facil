@@ -1,0 +1,27 @@
+--> Retornar "proximas datas" [15] e "proximos horários" [TODOS] na listagem de eventos.
+
+--> Método "AGENDAR"
+{
+    "id": "XXXXXX",
+    "eventoId":"_123123",
+    "clienteId":"_asdasd",
+    "data_inicio":"2018-11-12 20:00:00",
+    "compareceu": false,
+    "transacao": {
+        "fornecedor": "APPLE",
+        "token": "123162341263416243125643612436154365412634125634",
+        "valor": "35",
+        "moeda": "BRL",
+        "moeda_desc": "R$"
+    }
+}
+
+--> Método LISTAR AGENDAMENTOS
+[
+    {...},
+    {...}
+]
+
+--> Criar tabela agendamento que liga EVENTO com ALUNO.
+
+

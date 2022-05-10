@@ -1,0 +1,849 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "CqQCHAEAAANAt0pahVePBGIAr9YSpjQpBJRiRKrhUp6gFJXnUSF4tneTnn8cy4Rn7-AOBYSUHLpKH_2ed7qbLcKnVnuLocS4onOqyCfuEF2xlCUtBFSQqGvnbg7hYlD7xokK0LTnaBnof3X9atJWa52upIDnbgHcmLaBdSo_nUmFe_KAD-g7nWkk0G8JiAFVcdQurfh_OwRwNGhtEWasDFyyszSzlNgH1JIVMgRFZawEfpwbpGpHJ7tR4HdFd2dpVgvQfgDGarBR8YKSHhYoQt52GWaiCGtuI2oh0lhoVYun_HJISdMjvRmVuTno_I_NPWsNwNrJfYqcP3-WZLzb5kJQSInEpd6bl3U9WnZHozCQzJvxe0Qc4rJDir-Ul2v8m5ipJ_Nl9BIQFhZ2Bf3UIog59a31j1R8MhoUq3-QFIENlNBfcHHxiynHKrK5w_8",
+    "results" : [
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.4941121,
+                "lng" : -46.4232391
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.4928703197085,
+                   "lng" : -46.4218779697085
+                },
+                "southwest" : {
+                   "lat" : -23.4955682802915,
+                   "lng" : -46.4245759302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "902c87b05914710b876862607b3ac058373d28f3",
+          "name" : "Canele Academia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110315115572083976789/photos\"\u003eCanele Academia\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA_vtLzTQGeQlhqi413PLJBRjH5atnd-l_1ToejWYSRsRgDIoJ88uz7T13Xda4KQyG9PBxUlLONXuABvnZ1BJuHE-kgPdQCshADgpnLOCDbyLwGvog5CWcgk6np9woW71vEhD7li8FwLKS7ehgv8kFuFjOGhSZYz_k4Vhu4rBeG5akSuucYITQ1w",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJx6Y0cepjzpQRMeLZDq_grUA",
+          "plus_code" : {
+             "compound_code" : "GH4G+9P São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MGH4G+9P"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJx6Y0cepjzpQRMeLZDq_grUA",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Marechal Tito, 2329 - São Miguel Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.4976366,
+                "lng" : -46.4137697
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.4962876197085,
+                   "lng" : -46.4124207197085
+                },
+                "southwest" : {
+                   "lat" : -23.4989855802915,
+                   "lng" : -46.4151186802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "07aa3d7449bd9415c73fb558553fddb42e52b7a1",
+          "name" : "4 ALL ACADEMIA",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 956,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101636237991008284452/photos\"\u003e4 ALL ACADEMIA\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA7LRn7XxLVmCdilxc9Grq-h7EUnZrCpQJtnrC9zmdaFZKztZY0sDwjBOWmOkqpUU_LgQ_OnNcz3lXwGfZePsvqU2X7N71pfPGcJnSThvHR6YPv_xKv8h-3_B86cgiDYFpEhDP5pDUxJQSODpdPnHO80vqGhTTk0WuTvdu-ZOcMBi-ul7N4c9vRw",
+                "width" : 1280
+             }
+          ],
+          "place_id" : "ChIJFUlqSoljzpQRiZCkh0lAy6E",
+          "plus_code" : {
+             "compound_code" : "GH2P+WF São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MGH2P+WF"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJFUlqSoljzpQRiZCkh0lAy6E",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Caraipé das Águas, 140 - Esquina com a Rua Cipó do Reino, 135 - Jardim dos Ipes, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.4947445,
+                "lng" : -46.4150648
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.4933964197085,
+                   "lng" : -46.4136922197085
+                },
+                "southwest" : {
+                   "lat" : -23.4960943802915,
+                   "lng" : -46.4163901802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "aba20e71e39a9edbab52b1d84891e02b59c31589",
+          "name" : "Fitness Academy EMPIRE",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3264,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104922907314585608949/photos\"\u003eJuliana Cavalcante dos Santos\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAACarRJgNQOzjrOx5_QBxLIzNnc0DtGc9M1vWEuDt0uM4PpxgUKkpjHSjWMB4Y3-GMfjDy3vZyH5_atwx5jVZtcH9e55Y3e2ylONUTsADPQ8o8TnsRywidQwvZbzF0nrDNEhCZja1gJjVlAI-iLGRQFgtJGhQ_5FtyS6CrkrNbTIKZWx8GSAmIZg",
+                "width" : 1836
+             }
+          ],
+          "place_id" : "ChIJc3R6NYpjzpQROLV-PhsFj5k",
+          "plus_code" : {
+             "compound_code" : "GH4M+4X São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MGH4M+4X"
+          },
+          "rating" : 4,
+          "reference" : "ChIJc3R6NYpjzpQROLV-PhsFj5k",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida dos Ipês, 1603 - Vila Curuçá Velha, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.508286,
+                "lng" : -46.42267200000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.50693456970849,
+                   "lng" : -46.4213673697085
+                },
+                "southwest" : {
+                   "lat" : -23.5096325302915,
+                   "lng" : -46.4240653302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "ed991c82737e1c284cbcb333a753d586ffd772fc",
+          "name" : "Academia Encore",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 4128,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106780571602264064476/photos\"\u003eEduardo Vieira\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAApbXSTUFwnwIGQHkguw2qm9HVn3FpcnHt40TZwIlgkXIr0fXFPi3zsOrl8QGXVuZlepPYne7bzI2gEnnilekh1iDJBTics89JuMpMMLTDb3ez-PVtJX6wNk7LR3J48vdNEhAEDmhZYupiSMEraowJCKL_GhSiAu5TST6xeIcVGID2cUwY3XtIDA",
+                "width" : 3096
+             }
+          ],
+          "place_id" : "ChIJLTuFfvRjzpQR8k_I8EGgh1c",
+          "plus_code" : {
+             "compound_code" : "FHRG+MW São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MFHRG+MW"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJLTuFfvRjzpQR8k_I8EGgh1c",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Pedro Meira, 743 - Vila Curuçá, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5012042,
+                "lng" : -46.4015854
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.4998096197085,
+                   "lng" : -46.4002266697085
+                },
+                "southwest" : {
+                   "lat" : -23.50250758029151,
+                   "lng" : -46.4029246302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "ba2d5f32cb911300345624e254c6ce228bc6620d",
+          "name" : "Academy ON SPORT Unit. I",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111230341769739954838/photos\"\u003eRodolfo Shan\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA2hD2keNQSe7Xz0k41ocgFLN26FDN3DTUq6fUz0vjnjedaYj68-TmV-abUhLDPGA0ZLHDQtlGeSW-30XsgLfWbD1UxZQFoV11RxmuOB-K_6HyBYSfoNU9eJhiyljxBeRnEhDYClp1rBOIxTFyGPvLusm_GhRyrzKkZZiqKqz6NYUJFFgDsvNUNQ",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJ-QRT8IFjzpQRC39gdTk3aqQ",
+          "plus_code" : {
+             "compound_code" : "FHXX+G9 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MFHXX+G9"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJ-QRT8IFjzpQRC39gdTk3aqQ",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Enseada das Garoupas, 390 - Itaim Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.4980552,
+                "lng" : -46.3992219
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.49670606970849,
+                   "lng" : -46.3978728697085
+                },
+                "southwest" : {
+                   "lat" : -23.4994040302915,
+                   "lng" : -46.4005708302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "b8aa8a5018781aa0c13d26a70ce46f114aaa4081",
+          "name" : "Boxe Chines",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2322,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107054983931559726129/photos\"\u003eRoberta Jamberg\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAqVDV_vzYqJBzAZ33QKEq6JP9d--DJGj85o48i3f2vF-lCF7XS4uJ3I2h-dpNxo3LhGaKJjR5B61dIZbpyoaeM_NXcWh7u8jwVhpuCN5lw50Od_IFfQCJIEEFbr4Ert7YEhDTw0fiW4yEWVTTAGnfmJccGhSGr2iFl2wMlo469in6GiQvX8PjZQ",
+                "width" : 4128
+             }
+          ],
+          "place_id" : "ChIJZazU8XhjzpQRiNewMZEVOKQ",
+          "plus_code" : {
+             "compound_code" : "GJ22+Q8 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MGJ22+Q8"
+          },
+          "rating" : 5,
+          "reference" : "ChIJZazU8XhjzpQRiNewMZEVOKQ",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Manoel de Castilho, 46 - Itaim Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5042245,
+                "lng" : -46.3965764
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5029008197085,
+                   "lng" : -46.3953151697085
+                },
+                "southwest" : {
+                   "lat" : -23.5055987802915,
+                   "lng" : -46.3980131302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "f64749954c7d5b79f9d608092bebb8f6868ce3a4",
+          "name" : "Academia ON SPORT Unid. II",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJ8XWQLX9jzpQRu7-YabDoyUQ",
+          "plus_code" : {
+             "compound_code" : "FJW3+89 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MFJW3+89"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJ8XWQLX9jzpQRu7-YabDoyUQ",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Tibúrcio de Sousa, 851 - Itaim Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.498809,
+                "lng" : -46.394864
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.4974994197085,
+                   "lng" : -46.3935443697085
+                },
+                "southwest" : {
+                   "lat" : -23.5001973802915,
+                   "lng" : -46.3962423302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "fd518e03edfb1fbfc49d9fe86cc787c078ba0082",
+          "name" : "Flex Academia",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJM7TRDHxjzpQRl5TBp3uACX8",
+          "plus_code" : {
+             "compound_code" : "GJ24+F3 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MGJ24+F3"
+          },
+          "rating" : 3.8,
+          "reference" : "ChIJM7TRDHxjzpQRl5TBp3uACX8",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Barão de Alagoas, 391 - Itaim Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.51067309999999,
+                "lng" : -46.3943844
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.50932411970849,
+                   "lng" : -46.3930354197085
+                },
+                "southwest" : {
+                   "lat" : -23.5120220802915,
+                   "lng" : -46.3957333802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "191a185eca9a319e34cbddc43560eca05e1f8f27",
+          "name" : "Academia Fitness Sport Life",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 720,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111433197922163686533/photos\"\u003eDinaldo Bonin\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAsicp7cQ4lPIuA3360RVLyAYd5Yjj01XwGK-W59fGiQ4lix25OtzuQWkvJSf8DZOEDYZfrc2apTSOEVpwujOlIBcg4Ol74a92B167EHyglu3E6q9Rv12JiluXr_vmqlEvEhDttB5UuvjG7xOZ6keyb6VqGhSH-xOmUaU4M9Pgr1msQkNxHnBDfQ",
+                "width" : 960
+             }
+          ],
+          "place_id" : "ChIJyS-RsIVkzpQRK5FIR78HIqM",
+          "plus_code" : {
+             "compound_code" : "FJQ4+P6 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MFJQ4+P6"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJyS-RsIVkzpQRK5FIR78HIqM",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Tibúrcio de Sousa, 1405 - Sobreloja - Itaim Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.4988283,
+                "lng" : -46.4324267
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.4974793197085,
+                   "lng" : -46.4310777197085
+                },
+                "southwest" : {
+                   "lat" : -23.5001772802915,
+                   "lng" : -46.4337756802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "02fabae14ac470fc8601b0e7529069fc5dc27eb1",
+          "name" : "CAM - Clube De Artes Marciais",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111230341769739954838/photos\"\u003eRodolfo Shan\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAj9VG_pSezPiaJVnlGnVvKwgva2W76cvJnDUkKpjeGiLiFsHWuHUc3aIy4igadjrHqI_GzqVcufrgpBUdUZQdlhMhfq2AgDvJ89p5w197ZfmpYBopNCr4SqbyTSBXknVPEhCT0UQtfYt-bpf-MBS7fqw7GhSkjmmHpZUCIEz_Yna5G1jpggqYBA",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJk1EwD-djzpQRTEcdBmXTFOs",
+          "plus_code" : {
+             "compound_code" : "GH29+F2 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MGH29+F2"
+          },
+          "reference" : "ChIJk1EwD-djzpQRTEcdBmXTFOs",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua José Ferreira Crespo - Jardim Sao Vicente"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5127484,
+                "lng" : -46.4336719
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5113693197085,
+                   "lng" : -46.4323117697085
+                },
+                "southwest" : {
+                   "lat" : -23.5140672802915,
+                   "lng" : -46.4350097302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "ab73a843857eeadbed161cc47030cffe211ec42e",
+          "name" : "Studio Stay In Shape",
+          "photos" : [
+             {
+                "height" : 2592,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115291378739779073526/photos\"\u003eKatia Mendes\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA2bmnPrJ1tsdrl4QwB29B9nLzEWUBeaff751Ajd5zZCLY8nIYRfjYwB6P3NvoTb7qNp-Kwne8fBG_ITGq8-7V97Wdgp5Nl9GKsIxu3y_m80Xjo0V90fMgytiLypnDkDdsEhD_ZVdG_ci9NGlCChiyxUWeGhQ6fRZ94giGhGWUo16cbc61-pfn1Q",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJu8B3avljzpQRxJUaF-nx7T8",
+          "plus_code" : {
+             "compound_code" : "FHP8+WG São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MFHP8+WG"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJu8B3avljzpQRxJUaF-nx7T8",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "2700, Avenida Nordestina, 2610 - Cidade Nova São Miguel"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.482392,
+                "lng" : -46.40915099999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.4810415697085,
+                   "lng" : -46.4078353197085
+                },
+                "southwest" : {
+                   "lat" : -23.4837395302915,
+                   "lng" : -46.4105332802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "0aa14e76d28df9176a5878d143731c4f602b36ba",
+          "name" : "Alvorada Capoeira Inclusiva CNPJ 127.147.0001-05",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 720,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114427130017042783752/photos\"\u003eAlvorada Capoeira Inclusiva CNPJ 127.147.0001-05\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAZcE_hMLZbhrOCDvvbUgG-ApJQaqTE_DjREYpTV2rUrVJlVF46_olv_X009aUBuj18DmPSHEooFn92546wTR6oImmegfsYS-RozhCZuJTRccXQH2W2mxRg340zCNVKnAcEhCOFZrgQQcAU76g0mxlXjKQGhTgwA7UwqWrYmq5GJf-2eD3n4qm6g",
+                "width" : 1280
+             }
+          ],
+          "place_id" : "ChIJ933b26RjzpQRPyuIaErWep0",
+          "plus_code" : {
+             "compound_code" : "GH9R+28 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MGH9R+28"
+          },
+          "rating" : 5,
+          "reference" : "ChIJ933b26RjzpQRPyuIaErWep0",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Cordilheira do Araripe, 39 - São Miguel Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.511061,
+                "lng" : -46.389276
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.50970591970849,
+                   "lng" : -46.3879131197085
+                },
+                "southwest" : {
+                   "lat" : -23.5124038802915,
+                   "lng" : -46.3906110802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "7f1251913a12d2e491eb4d8d6679c50d78f0633c",
+          "name" : "Academia Corpo e Movimento",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 401,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110164892101441017379/photos\"\u003eAcademia Corpo e Movimento\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRZAAAA3kLnCM9ixKnjO5RA_iyUBO7SageqvcrtcRg4f-BO0ICa0PzyCZm_Sj5EP8eBNMe9ACesvviVzVEj4s84rq_FnNO4bQnmukV5rO3T-ZYAng3Tzjt5e_slmOI-MspNST66EhAXAt7abz7cakstS0NLrmFUGhT_2Y82dsFe1YW8oZAXkyPT58KURQ",
+                "width" : 826
+             }
+          ],
+          "place_id" : "ChIJo5tVWXdjzZQRg_7bwD1k2bk",
+          "reference" : "ChIJo5tVWXdjzZQRg_7bwD1k2bk",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Jasmim do Imperador, 66 - Jardim Camargo Novo, Ubatuba"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.4995163,
+                "lng" : -46.3885084
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.4981578697085,
+                   "lng" : -46.3871386197085
+                },
+                "southwest" : {
+                   "lat" : -23.5008558302915,
+                   "lng" : -46.3898365802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "89ae9800e66b100e28e0e1a471a39ae7eb789755",
+          "name" : "Unidade Básica de Saúde",
+          "place_id" : "ChIJ97g2XGJjzpQRJ6kQ2Oza3Lk",
+          "plus_code" : {
+             "compound_code" : "GJ26+5H São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MGJ26+5H"
+          },
+          "rating" : 4,
+          "reference" : "ChIJ97g2XGJjzpQRJ6kQ2Oza3Lk",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua José Amaro Magalhães, 86 - Jardim Sao Luis (Zona Leste), São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5142984,
+                "lng" : -46.390487
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5129387697085,
+                   "lng" : -46.38912951970849
+                },
+                "southwest" : {
+                   "lat" : -23.5156367302915,
+                   "lng" : -46.39182748029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "fadc66923578cc3edbe770275e1e6c577cfd52a6",
+          "name" : "Academia Energy Fit Itaim Paulista",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 640,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117950947955865588707/photos\"\u003eAcademia Energy Fit Itaim Paulista\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAHfDSSQ-ppMw9744cbe5DWUIH94OAzCzxUMarBEpaUbe9d4IEVaOzh6yNu8yCqj3809fHuKwU4bTBYPPLaeWi4VR8BL-XzW47iUjGH1_jarg2uRFTGYhWcK9Q6dyPo52eEhAFlpjqR2T_DbjVFE-DMBnIGhRfEwv6RSt7YH4flQKczFljz7UKGQ",
+                "width" : 640
+             }
+          ],
+          "place_id" : "ChIJKVhaiZFkzpQRizfkX8tNEQc",
+          "rating" : 4.1,
+          "reference" : "ChIJKVhaiZFkzpQRizfkX8tNEQc",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Tibúrcio de Sousa, 2155 - Itaim Paulista, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.4964437,
+                "lng" : -46.4376537
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.4951001697085,
+                   "lng" : -46.4363745197085
+                },
+                "southwest" : {
+                   "lat" : -23.4977981302915,
+                   "lng" : -46.4390724802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "c6b14450e10825dc9e16737f2e56e025fc4e7fbc",
+          "name" : "Academia FIT FORM",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106727184800851832743/photos\"\u003eMario Konno\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAABJjfwmIrxbc5twlXq7LmwAsSsubLOyazG4bTubWB10us_2Lay0MKya2kiHsgs-zMS1TO5ZpKP2qMgdySm2JEUdIdKIQLgl4q0uun3MekpYMTeaeAruo7hzYgm8l5xfEVEhD_Ij2mfWtfrkF065koxfQTGhT2SW_MTG1y8zSKG5kNl0Yl3oAPEw",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJjTahr99jzpQR3JXGdPKC1zc",
+          "plus_code" : {
+             "compound_code" : "GH36+CW São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MGH36+CW"
+          },
+          "rating" : 4.1,
+          "reference" : "ChIJjTahr99jzpQR3JXGdPKC1zc",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Engenheiro Manuel Osório, 25 - Vila Doutor Eiras, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5295029,
+                "lng" : -46.4092642
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.52815196970849,
+                   "lng" : -46.4079166197085
+                },
+                "southwest" : {
+                   "lat" : -23.5308499302915,
+                   "lng" : -46.4106145802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "7685e1daa5773bbd7262d81b31255896cad67f9b",
+          "name" : "Academia Look Fitness",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 960,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105380466686938912311/photos\"\u003eAcademia Look Fitness\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAi_pSNBoEuyHFrGWtXJNgXw8uDIC7PNp6IaQzo5BkRvUqUvpvfHeXvH162_Ss9xdrmsdAdMv8Sg03mZh2zQCMEG1MGzdVeK0DJvCCISGJL5CpGTJ_Ub_nrThg06hA64npEhDYiZd74aZzpIL_uV8Jfq6XGhSymmVe1dR0KDnRkIIb8PBKFKLSaw",
+                "width" : 720
+             }
+          ],
+          "place_id" : "ChIJP6QB4FxkzpQR7dWxFsQuBRQ",
+          "plus_code" : {
+             "compound_code" : "FHCR+57 São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MFHCR+57"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJP6QB4FxkzpQR7dWxFsQuBRQ",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Sāo José de Mossamedes, 521 - Núcleo Lageado, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.4985578,
+                "lng" : -46.4403984
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.4972515697085,
+                   "lng" : -46.43912771970849
+                },
+                "southwest" : {
+                   "lat" : -23.4999495302915,
+                   "lng" : -46.44182568029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "id" : "bf89cb2fe62cc9f6a7d0e901865b6a8c3e9892e1",
+          "name" : "ALL CORPS PHYSICAL THERAPY",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 2160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112335079673762826534/photos\"\u003eSidnei Leandro\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA1v4BizR5e54X__MIFptWyWlow7gaB8X6knd4L15cdcT-q-L4Y-9JRNXEAd3V2_SZ3jYssJDkQA9WczYURLOO7Fw4h0stJhxFo_RDWhkscnD5oOHtbjh-aJK-DxR-thAiEhCUvSEud6vZUcKQ0ktbN0BEGhTTgU80qi8qiKXMpFXr-fgStIjyEQ",
+                "width" : 3840
+             }
+          ],
+          "place_id" : "ChIJEQeDQGBhzpQRCIt0X2tqvjk",
+          "plus_code" : {
+             "compound_code" : "GH25+HR São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MGH25+HR"
+          },
+          "rating" : 5,
+          "reference" : "ChIJEQeDQGBhzpQRCIt0X2tqvjk",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Avenida Nordestina, 643 - Cidade São Miguel, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.50380089999999,
+                "lng" : -46.44114079999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.50244186970849,
+                   "lng" : -46.43980161970849
+                },
+                "southwest" : {
+                   "lat" : -23.5051398302915,
+                   "lng" : -46.44249958029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "cf317bbf6d4f18d5efe2739e3494c1d5fecd76e9",
+          "name" : "4 Fighters",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 720,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101298601898543154573/photos\"\u003e4 Fighters\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAHBFlUVNp3X24Uiy6B_QMA69bGE8X-YL3_okxscqYUijvP2eG5lWfnG9Jw8-pm5J89VgtcR070aOjEuC7VMe7UIccmn2M_6rDaWv_HP1FKcZp6Nr0NIOSFS25uKz44qpFEhAvINbihdEVk766PZBdZTZXGhQJ2ApcKp2yc3dKzEcVe6oiOEklNw",
+                "width" : 722
+             }
+          ],
+          "place_id" : "ChIJ10e6Il9hzpQRx3_-XiMqonA",
+          "plus_code" : {
+             "compound_code" : "FHW5+FG São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MFHW5+FG"
+          },
+          "rating" : 3.1,
+          "reference" : "ChIJ10e6Il9hzpQRx3_-XiMqonA",
+          "scope" : "GOOGLE",
+          "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+          "vicinity" : "Rua Hélio Vessoni, 256 - Vila Vessoni, São Paulo"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : -23.5044189,
+                "lng" : -46.4103149
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -23.5031217697085,
+                   "lng" : -46.4089777697085
+                },
+                "southwest" : {
+                   "lat" : -23.5058197302915,
+                   "lng" : -46.41167573029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+          "id" : "0dbaf97662ba8a05e7eb445c37a89fd003b8db52",
+          "name" : "CENTRO DE TREINAMENTO MARCIAIS DOJANG SUPERAÇÃO & SITE LAMSSPORTS - Taekwondo Muaythai Hapkido Defesa Pessoal",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1440,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117898642944547439108/photos\"\u003eRicardo Silva\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAGgSST9tMFyQm0c9jZY5hYlIxQW-GrZe7PKUY6XOkcWdCbC1L4zp8qEoznz5Oslm5wv5EKCxy6UISr3MnvlVyNqNSdo01bLTlxgBfexj59wpQF22UI5OfuISHKe5yJQ8uEhCDs3l_MTaZ-o1JkjYkOgzlGhQ9LcpAb-LP8COO3XWcGjHHkHSsBA",
+                "width" : 2140
+             }
+          ],
+          "place_id" : "ChIJRTzjHIZjzpQRUYIgFT-D8AI",
+          "plus_code" : {
+             "compound_code" : "FHWQ+6V São Paulo, State of São Paulo, Brazil",
+             "global_code" : "588MFHWQ+6V"
+          },
+          "rating" : 5,
+          "reference" : "ChIJRTzjHIZjzpQRUYIgFT-D8AI",
+          "scope" : "GOOGLE",
+          "types" : [
+             "gym",
+             "store",
+             "health",
+             "restaurant",
+             "point_of_interest",
+             "food",
+             "establishment"
+          ],
+          "vicinity" : "Rua Domingues Vidigal, 99 - Parque Industrial, São Paulo"
+       }
+    ],
+    "status" : "OK"
+ }
